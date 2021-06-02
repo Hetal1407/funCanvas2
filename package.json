@@ -4,8 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack --config webpack.config.js",
-    "start": "webpack --config webpack.config.js",
     "deploy": "gh-pages -d dist"
   },
   "keywords": [],
